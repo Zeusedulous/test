@@ -1,0 +1,31 @@
+﻿联系人：
+昵称： contact_nickName   
+头像： contact_icon
+性别： contact_sex
+电话号码： contact_phone
+邮箱： contact_email
+真实姓名： contact_realName	
+地区： contact_address
+生日： contact_birthday
+
+群：
+昵称： group_nickName
+头像： group_icon
+性别： group_sex
+电话号码： group_phone
+邮箱： group_email
+真实姓名 group_realName
+地区： group_address
+生日： group_birthday
+ 
+组织机构：
+昵称： org_nickName
+头像： org_icon
+性别： org_sex
+电话号码：  org_phone
+邮箱：  org_email
+真实姓名： org_realName
+地区： org_address
+生日： org_birthday
+所属组织： org_ownOrg
+职务： org_job
